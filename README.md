@@ -34,12 +34,6 @@ The analysis includes:
 - Cross-validation calibration curves
 - Model comparison using AIC, BIC, LASSO
 
-## 🚀 How to Run
-To reproduce the analysis:
-1. Open `final-project.Rmd` in RStudio.
-2. Knit to HTML or PDF.
-3. Ensure the dataset (`small.nhanes`) is in the working directory.
-
 ## 👤 Author
 Ali Krisht   
 [LinkedIn](https://linkedin.com/in/alikrisht)
