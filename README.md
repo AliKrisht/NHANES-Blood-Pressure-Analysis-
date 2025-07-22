@@ -4,7 +4,6 @@
 This project uses regression and variable selection methods to analyze the relationship between smoking and average systolic blood pressure (BPsysAve) using a sample from the NHANES dataset.
 
 ## 📂 Project Structure
-- `report`: Contains the main RMarkdown analysis file.
 - [final project.pdf](https://github.com/user-attachments/files/21372509/final.project.pdf)
 `: Final academic paper (PDF).
 
